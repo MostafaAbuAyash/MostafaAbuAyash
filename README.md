@@ -3,7 +3,7 @@
   
 - 🎓Studies at Faculty of Computers and Information Systems
 - 💻currently learning Web Development
-- :speech_balloon: You can Find Me On Facebook
+- :speech_balloon: You can Find Me On Facebook:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mostafa.Abu3yash/grid)
 
